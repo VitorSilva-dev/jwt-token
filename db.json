@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Vitor",
+		"password": "bb0a71be12ffe8f52090bb73e7c73c6abfa4ff2fe560c1d6fc0270c612887629",
+		"role": "Admin",
+		"id": "1x21gyceexz"
+	},
+	{
+		"name": "Maria",
+		"password": "f967d36df57fc2348df7195fe1a21e58cf2fa78e74b61f7fd45523f26d8a9e26",
+		"role": "Admin",
+		"id": "2d5b2e3d-7bc5-4718-aa1e-41e84bc1616d"
+	}
+]
